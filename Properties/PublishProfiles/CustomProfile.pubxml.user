@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Bu dosya, Web projenizin yayımlama/paket işlemi tarafından kullanılıyor. MSBuild dosyasını düzenleyerek
+bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilgi edinmek için https://go.microsoft.com/fwlink/?LinkID=208121 adresini ziyaret edin. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Bilgi_Islem_Admin\Desktop\yayımlama</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/css/font-awesome.min.css">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/css/images/overlay.png">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/css/main.css">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.eot">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.svg">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.ttf">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.woff">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/fonts/fontawesome-webfont.woff2">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/fonts/FontAwesome.otf">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/js/jquery.min.js">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/js/main.js">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/js/skel.min.js">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="assets/js/util.js">
+      <publishTime>11/25/2020 20:37:19</publishTime>
+    </File>
+    <File Include="bin/DijitalDanismanlik.dll">
+      <publishTime>11/25/2020 22:09:59</publishTime>
+    </File>
+    <File Include="bin/DijitalDanismanlik.pdb">
+      <publishTime>11/25/2020 22:09:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="css/.DS_Store">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/all.min.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/animate.min.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/bootstrap.map">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/bootstrap/bootstrap-grid.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/bootstrap/bootstrap-reboot.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/bootstrap/bootstrap.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/images/overlay.png">
+      <publishTime>11/25/2020 20:34:41</publishTime>
+    </File>
+    <File Include="css/jquery-ui.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/linearicons.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/magnific-popup.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/main.map">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/nice-select.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/owl.carousel.css">
+      <publishTime>11/21/2020 23:04:44</publishTime>
+    </File>
+    <File Include="css/templateme-styl.css">
+      <publishTime>11/25/2020 21:44:21</publishTime>
+    </File>
+    <File Include="Hizmetlerimiz.html">
+      <publishTime>11/25/2020 22:09:51</publishTime>
+    </File>
+    <File Include="img/Başlıksız-2.png">
+      <publishTime>11/21/2020 23:04:53</publishTime>
+    </File>
+    <File Include="img/logo1.png">
+      <publishTime>11/21/2020 23:04:53</publishTime>
+    </File>
+    <File Include="img/mini-profile-bg-01.jpg">
+      <publishTime>11/21/2020 23:04:53</publishTime>
+    </File>
+    <File Include="img/mini-profile-bg-02.jpg">
+      <publishTime>11/21/2020 23:04:53</publishTime>
+    </File>
+    <File Include="img/resim.png">
+      <publishTime>11/22/2020 00:34:20</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>11/25/2020 21:46:03</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>11/21/2020 23:05:07</publishTime>
+    </File>
+    <File Include="js/parallax.min.js">
+      <publishTime>11/21/2020 23:05:07</publishTime>
+    </File>
+    <File Include="styl.css">
+      <publishTime>11/22/2020 01:00:35</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/25/2020 21:56:24</publishTime>
+    </File>
+    <File Include="webfonts/fa-brands-400.eot">
+      <publishTime>11/21/2020 23:05:32</publishTime>
+    </File>
+    <File Include="webfonts/fa-brands-400.svg">
+      <publishTime>11/21/2020 23:05:32</publishTime>
+    </File>
+    <File Include="webfonts/fa-brands-400.ttf">
+      <publishTime>11/21/2020 23:05:32</publishTime>
+    </File>
+    <File Include="webfonts/fa-brands-400.woff">
+      <publishTime>11/21/2020 23:05:32</publishTime>
+    </File>
+    <File Include="webfonts/fa-brands-400.woff2">
+      <publishTime>11/21/2020 23:05:32</publishTime>
+    </File>
+    <File Include="webfonts/fa-regular-400.eot">
+      <publishTime>11/21/2020 23:05:32</publishTime>
+    </File>
+    <File Include="webfonts/fa-regular-400.svg">
+      <publishTime>11/21/2020 23:05:32</publishTime>
+    </File>
+    <File Include="webfonts/fa-regular-400.ttf">
+      <publishTime>11/21/2020 23:05:32</publishTime>
+    </File>
+    <File Include="webfonts/fa-regular-400.woff">
+      <publishTime>11/21/2020 23:05:32</publishTime>
+    </File>
+    <File Include="webfonts/fa-regular-400.woff2">
+      <publishTime>11/21/2020 23:05:32</publishTime>
+    </File>
+    <File Include="webfonts/fa-solid-900.eot">
+      <publishTime>11/21/2020 23:05:33</publishTime>
+    </File>
+    <File Include="webfonts/fa-solid-900.svg">
+      <publishTime>11/21/2020 23:05:33</publishTime>
+    </File>
+    <File Include="webfonts/fa-solid-900.ttf">
+      <publishTime>11/21/2020 23:05:33</publishTime>
+    </File>
+    <File Include="webfonts/fa-solid-900.woff">
+      <publishTime>11/21/2020 23:05:33</publishTime>
+    </File>
+    <File Include="webfonts/fa-solid-900.woff2">
+      <publishTime>11/21/2020 23:05:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
